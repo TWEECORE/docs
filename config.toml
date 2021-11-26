@@ -1,0 +1,33 @@
+baseURL = 'https://docs.tweecore.de/'
+languageCode = 'de-de'
+title = 'TWEECORE - Docs'
+theme = 'hugo-theme-relearn'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  themeVariant = "blue"
+  disableLandingPageButton = true
+  # Enable GitHub editing
+  editURL = "https://github.com/TWEECORE/docs/edit/main/content/"
+  alwaysopen = false
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-globe'></i> Website"
+identifier = "www"
+url = "https://www.tweecore.de"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='far fa-address-card'></i> Kontakt"
+identifier = "kontakt"
+url = "https://www.tweecore.de/kontakt"
+weight = 11
+
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> GitHub"
+identifier = "gh"
+url = "https://github.com/TWEECORE"
+weight = 12
