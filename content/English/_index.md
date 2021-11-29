@@ -8,7 +8,10 @@ weight = 10
 
 ## TWEECORE - Product documentations
 
+On this site you´ll find the documentation for TWEECORE´s products:
 
-Selbstverständlich erreichen Sie uns bei Fragen und Anregungen jederzeit.
+Business Rental
+
+Project Invoice
 
 Email: info@tweecore.de
