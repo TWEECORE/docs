@@ -1,10 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Invoice on TWEECORE - Docs</title><link>https://docs.tweecore.de/german/project-invoice/</link><description>Recent content in Project Invoice on TWEECORE - Docs</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><atom:link href="https://docs.tweecore.de/german/project-invoice/index.xml" rel="self" type="application/rss+xml"/><item><title>Einrichtung von BC Project Invoice</title><link>https://docs.tweecore.de/german/project-invoice/einrichtung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/german/project-invoice/einrichtung/</guid><description>Mit Project Invoice von TWEECORE erzeugen Sie für Ihre verwendeten Projektmanagement Tools auf Knopfdruck Ihre zu fakturierenden Zeiten in Business Central. Hierzu ist allerdings eine Einrichtung notwendig. Nutzen Sie die unterstützte Einrichtung, um durch zwei einfache Seiten durch die Einstellungen geführt zu werden.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Invoice on TWEECORE - Docs</title>
+    <link>https://docs.tweecore.de/german/project-invoice/</link>
+    <description>Recent content in Project Invoice on TWEECORE - Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://docs.tweecore.de/german/project-invoice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einrichtung von BC Project Invoice</title>
+      <link>https://docs.tweecore.de/german/project-invoice/einrichtung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/german/project-invoice/einrichtung/</guid>
+      <description>Mit Project Invoice von TWEECORE erzeugen Sie für Ihre verwendeten Projektmanagement Tools auf Knopfdruck Ihre zu fakturierenden Zeiten in Business Central. Hierzu ist allerdings eine Einrichtung notwendig. Nutzen Sie die unterstützte Einrichtung, um durch zwei einfache Seiten durch die Einstellungen geführt zu werden.
 Wählen Sie hier den Punkt Project Invoice.
-Hier können Sie verschiedenen Vorbelegungen vornehmen. Unter Umständen müssen Sie eine neue Nummernserie anlegen, Sie können aber auch eine schon im Einsatz befindliche verwenden.</description></item><item><title>Project Invoice unterstütze Einrichtung</title><link>https://docs.tweecore.de/german/project-invoice/unerstuetzeeinrichtung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/german/project-invoice/unerstuetzeeinrichtung/</guid><description>Die einfachste Methode zur Einrichtung von Project Invoice ist die &amp;ldquo;Unterstütze Einrichtung&amp;rdquo;.
+Hier können Sie verschiedenen Vorbelegungen vornehmen. Unter Umständen müssen Sie eine neue Nummernserie anlegen, Sie können aber auch eine schon im Einsatz befindliche verwenden.</description>
+    </item>
+    <item>
+      <title>Project Invoice unterstütze Einrichtung</title>
+      <link>https://docs.tweecore.de/german/project-invoice/unerstuetzeeinrichtung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/german/project-invoice/unerstuetzeeinrichtung/</guid>
+      <description>Die einfachste Methode zur Einrichtung von Project Invoice ist die &amp;ldquo;Unterstütze Einrichtung&amp;rdquo;.
 Schritt 1: Rechnungs Typ - definieren Sie den Typ der Verkaufszeile mit der die Abrechnung durchgeführt werden soll.
 Nr. - wählen Sie passend zum Typ die Nummer für den Artikel, die Ressource oder des Sachkontos zur Abrechnung.
 Nr. Serie Project Invoice - die gewählte Nummernserie wird verwendet um die Importe aus Ihren System zu benamen.
-Zeiten zusammenfassen - durch auswahl der Zusammenfassungen werden Zeiten zusammen gefasst in eine Verkaufszeile geschrieben.</description></item><item><title>Projektanlage</title><link>https://docs.tweecore.de/german/project-invoice/projektanlange/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/german/project-invoice/projektanlange/</guid><description>Für die erste Abrechnung oder aber nachdem ein neues Projektmanagementtool eingeführt worden ist, müssen zu Beginn die Projekte importiert werden. Dies erfolgt über die Seite Project Invoice Projects. Diese Seite können Sie in der Suche von Business Central eingeben und aufrufen.
+Zeiten zusammenfassen - durch auswahl der Zusammenfassungen werden Zeiten zusammen gefasst in eine Verkaufszeile geschrieben.</description>
+    </item>
+    <item>
+      <title>Projektanlage</title>
+      <link>https://docs.tweecore.de/german/project-invoice/projektanlange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/german/project-invoice/projektanlange/</guid>
+      <description>Für die erste Abrechnung oder aber nachdem ein neues Projektmanagementtool eingeführt worden ist, müssen zu Beginn die Projekte importiert werden. Dies erfolgt über die Seite Project Invoice Projects. Diese Seite können Sie in der Suche von Business Central eingeben und aufrufen.
 Wählen Sie danach &amp;ldquo;Projekte Importieren&amp;rdquo;. Jedes einzelne Projekt kann jetzt einem Kunden zugeordnet werden, wählen Sie dazu einfach ein Projekt aus und klicken auf bearbeiten.
-Allgemein Auf der jeweiligen Projektseite kann das jeweilige Projekt fest einem bestimmten Kunden zugeordnet werden.</description></item><item><title>Importieren der abzurechnenden Stunden</title><link>https://docs.tweecore.de/german/project-invoice/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/german/project-invoice/import/</guid><description>Um nun die zu berechnenden Stunden abzurufen, rufen Sie die Aktion Import Project Hours auf. Es öffnet sich eine Seite, auf der Sie das Abrechnungsstartdatum und Enddatum festlegen können. Zudem können Sie beispielsweise eine Filterung auf den Ersteller der Rechnungszeile festlegen
-Der Import ist nun erfolgt, wir können uns also nun den Zeilen zuwenden. Hierzu gehen Sie bitte auf eines der verschiedenen Projekte, bei denen wir uns nun die Zeilen ansehen.</description></item></channel></rss>
+Allgemein Auf der jeweiligen Projektseite kann das jeweilige Projekt fest einem bestimmten Kunden zugeordnet werden.</description>
+    </item>
+    <item>
+      <title>Importieren der abzurechnenden Stunden</title>
+      <link>https://docs.tweecore.de/german/project-invoice/import/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/german/project-invoice/import/</guid>
+      <description>Um nun die zu berechnenden Stunden abzurufen, rufen Sie die Aktion Import Project Hours auf. Es öffnet sich eine Seite, auf der Sie das Abrechnungsstartdatum und Enddatum festlegen können. Zudem können Sie beispielsweise eine Filterung auf den Ersteller der Rechnungszeile festlegen
+Der Import ist nun erfolgt, wir können uns also nun den Zeilen zuwenden. Hierzu gehen Sie bitte auf eines der verschiedenen Projekte, bei denen wir uns nun die Zeilen ansehen.</description>
+    </item>
+  </channel>
+</rss>

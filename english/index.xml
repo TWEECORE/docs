@@ -1,3 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>English on TWEECORE - Docs</title><link>https://docs.tweecore.de/english/</link><description>Recent content in English on TWEECORE - Docs</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><atom:link href="https://docs.tweecore.de/english/index.xml" rel="self" type="application/rss+xml"/><item><title>Business Rental</title><link>https://docs.tweecore.de/english/business-rental/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/english/business-rental/</guid><description>Business Rental Business Rental is an vertical solution developed by TWEECORE to extend the standard of Microsoft Dynamics 365 Business Central. Whether you want to rent out containers, forklifts, cars, work platforms or vacation homes - you always have all processes at your fingertips with just a few clicks.
-Business Rental enables you to map your entire rental business. Offers, invoices, credit notes and return deliveries
-Flexible billing periods</description></item><item><title>Project Invoice</title><link>https://docs.tweecore.de/english/project-invoice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/english/project-invoice/</guid><description>Project Invoice</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on TWEECORE - Docs</title>
+    <link>https://docs.tweecore.de/english/</link>
+    <description>Recent content in English on TWEECORE - Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://docs.tweecore.de/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Rental</title>
+      <link>https://docs.tweecore.de/english/business-rental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/english/business-rental/</guid>
+      <description>Business Rental Business Rental is an vertical solution developed by TWEECORE to extend the standard of Microsoft Dynamics 365 Business Central. Whether you want to rent out containers, forklifts, cars, work platforms or vacation homes - you always have all processes at your fingertips with just a few clicks.
+Business Rental enables you to map your entire rental business.   Offers, invoices, credit notes and return deliveries
+  Flexible billing periods</description>
+    </item>
+    <item>
+      <title>Project Invoice</title>
+      <link>https://docs.tweecore.de/english/project-invoice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/english/project-invoice/</guid>
+      <description>Project Invoice </description>
+    </item>
+  </channel>
+</rss>

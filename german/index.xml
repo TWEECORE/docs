@@ -1,8 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deutsch on TWEECORE - Docs</title><link>https://docs.tweecore.de/german/</link><description>Recent content in Deutsch on TWEECORE - Docs</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><atom:link href="https://docs.tweecore.de/german/index.xml" rel="self" type="application/rss+xml"/><item><title>Business Rental</title><link>https://docs.tweecore.de/german/business-rental/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/german/business-rental/</guid><description>Business Rental Business Rental ist eine von TWEECORE entwickelte Branchenlösung zur Erweiterung des Standards von Microsoft Dynamics 365 Business Central. Egal, ob Sie nun Container, Gabelstapler, Autos, Arbeitsbühnen oder Ferienwohnungen vermieten möchten – Sie haben alle Vorgänge immer mit wenigen Klicks zur Hand.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deutsch on TWEECORE - Docs</title>
+    <link>https://docs.tweecore.de/german/</link>
+    <description>Recent content in Deutsch on TWEECORE - Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://docs.tweecore.de/german/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Rental</title>
+      <link>https://docs.tweecore.de/german/business-rental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/german/business-rental/</guid>
+      <description>Business Rental Business Rental ist eine von TWEECORE entwickelte Branchenlösung zur Erweiterung des Standards von Microsoft Dynamics 365 Business Central. Egal, ob Sie nun Container, Gabelstapler, Autos, Arbeitsbühnen oder Ferienwohnungen vermieten möchten – Sie haben alle Vorgänge immer mit wenigen Klicks zur Hand.
 Business Rental ermöglicht es, dass Sie Ihr komplettes Mietgeschäft abbilden können. · Angebote, Rechnungen, Gutschriften und Rücklieferungen
 · Flexible Abrechnungszeiträume
 · Pauschalen und Periodenbezogene Miettarife
-· Integrierte Miertartikelverwaltung</description></item><item><title>Project Invoice</title><link>https://docs.tweecore.de/german/project-invoice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://docs.tweecore.de/german/project-invoice/</guid><description>Project Invoice Mit Project Invoice reduzieren Sie Ihren Aufwand beim Abrechnen Ihrer Dienstleistungsstunden erheblich. Verknüpfen Sie Ihr Business Central mit Ihrer Projektmanagement Software Ihrer Wahl und lassen sich auf Knopfdruck Ihre Zeiten übertragen.
+· Integrierte Miertartikelverwaltung</description>
+    </item>
+    <item>
+      <title>Project Invoice</title>
+      <link>https://docs.tweecore.de/german/project-invoice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://docs.tweecore.de/german/project-invoice/</guid>
+      <description>Project Invoice Mit Project Invoice reduzieren Sie Ihren Aufwand beim Abrechnen Ihrer Dienstleistungsstunden erheblich. Verknüpfen Sie Ihr Business Central mit Ihrer Projektmanagement Software Ihrer Wahl und lassen sich auf Knopfdruck Ihre Zeiten übertragen.
 Mit der vorhandenen Dokumentation werden Sie in der Lage sein, die Einrichtung vorzunehmen, Projekte in Ihr Business Central zu übertragen und die Erstellung der Rechnung vorzunehmen.
 Derzeit sind zwei Projektmanagementtools im Standard enthalten:
-JIRA Tempo Time Sheets YouTrack von JetBrains Weitere Tools lassen sich auf Nachfrage einbinden.</description></item></channel></rss>
+ JIRA Tempo Time Sheets YouTrack von JetBrains  Weitere Tools lassen sich auf Nachfrage einbinden.</description>
+    </item>
+  </channel>
+</rss>
